@@ -179,7 +179,7 @@ def emotional_climax_tapestry():
         1, 0, 1, 2,  # Unity of all beings
         3, 4, 5,  # Final emotional crescendo
         6, 7, 8, 9,  # Celebration of life
-        11, 12, 123, 1234, 12345  # Return to the beginning, renewed
+        11, 12, 123, 1234, 12345  # no Return to the beginning, renewed
     ]
 
     # Print the tapestry
